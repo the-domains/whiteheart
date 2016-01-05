@@ -1,7 +1,7 @@
 name: whiteheart
 favicon: null
-layout_spectrum: 0.3288114811293781
-typography_spectrum: 0.18643024377524853
+layout_spectrum: 1
+typography_spectrum: 0.72574
 title: website of the white heart
 cta:
   domain: null
@@ -17,13 +17,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#71A7FE'
-    - '#399AE7'
-    - '#3B407C'
-    - '#547AB1'
-    - '#CEAFC0'
-  brandStrength: 0.48269296111539006
-  lightness: 0.08689953456632793
-  saturation: 0.036424999590963125
-  rhythmicContrast: 0.5767673219088465
+    - '#d7deef'
+    - '#030208'
+    - '#272b2c'
+    - '#916a63'
+    - '#8e95a7'
+  brandStrength: 0.5
+  lightness: 0.5
+  saturation: 0.5
+  rhythmicContrast: 0.75
 purpose: []
