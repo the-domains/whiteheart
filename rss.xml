@@ -1,20 +1,41 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[whiteheart]]></title>
-        <description><![CDATA[whiteheart]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <title><![CDATA[website of the white heart]]></title>
+        <description><![CDATA[website of the white heart]]></description>
+        <link>https://thegrid.ai/whiteheart/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 05 Jan 2016 14:58:48 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Tue, 05 Jan 2016 15:47:52 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/whiteheart/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Home]]></title>
             <description><![CDATA[<article><h1>Home</h1><p>Das weiße Herz ist das neue Symbol für den offenen Dialog.
 Wir glauben, dass nur durch einen vorurteilsfreien Dialog die Menschheit mehr Verständnis, Menschlichkeit und Reife erreichen kann. Wir schlagen vor, das weiße Herz als Symbol zu benutzen, das jeder benutzen kann, der an die Kraft des Dialogs glaubt.
 
 Benutze das weiße Herz als Symbol für Deinen beruflichen oder privaten Kontext. Wir laden die Welt ein, sich zu beteiligen. </p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/61946e2634a71bb2ff92b14e6e9ab3295e702afb.jpg"></article>]]></description>
-            <link>undefinedhome/index.html</link>
+            <link>https://thegrid.ai/whiteheart/home/index.html</link>
             <guid isPermaLink="false">f4868e5a-4387-4077-a473-07efc2cbea56</guid>
             <pubDate>Tue, 05 Jan 2016 14:58:41 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Anwendbarkeit]]></title>
+            <description><![CDATA[<article><h1>Anwendbarkeit</h1><p>Dialog ist überall.
+
+Wenn wir den Begriff “Dialog” benutzen, dann denken wir sowohl an gesprochenen Worte zwischen den Menschen.
+Darüber hinaus meinen wir natürlich auch eine allgemeine Haltung von Respekts und der Bereitschaft, einander zu verstehen.
+
+Zu denen, die einen Dialog führen können, gehören Gruppen, Institutionen, Ideen, Konzepte, und praktisch alle Aspekte des der Interaktionen des Lebens.
+
+Das weiße Herz steht für einen respektvollen Dialog - zwischen Generationen,
+- zwischen Ländern
+- zwischen Religionen
+- innerhalb von Familien
+- innerhalb von Unternehmen,
+- zwischen Menschheit und Natur,
+- zwischen Wissenschaft und Spiritualität,
+- von jedem mit sich selbst</p></article>]]></description>
+            <link>https://thegrid.ai/whiteheart/anwendbarkeit/index.html</link>
+            <guid isPermaLink="false">79d74501-1d89-4577-b342-e965f1c39a4a</guid>
+            <pubDate>Tue, 05 Jan 2016 15:47:40 GMT</pubDate>
         </item>
     </channel>
 </rss>
