@@ -3,11 +3,11 @@ inFeed: false
 hasPage: true
 inNav: true
 inLanguage: null
-starred: false
+starred: true
 keywords: []
 description: ''
-datePublished: '2016-01-05T15:09:55.865Z'
-dateModified: '2016-01-05T15:09:40.749Z'
+datePublished: '2016-01-05T15:11:42.562Z'
+dateModified: '2016-01-05T15:11:26.183Z'
 title: Mitmachen
 author: []
 authors: []
