@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[whiteheart]]></title>
+        <description><![CDATA[whiteheart]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Tue, 05 Jan 2016 14:58:48 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Home]]></title>
+            <description><![CDATA[<article><h1>Home</h1><p>Das weiße Herz ist das neue Symbol für den offenen Dialog.
+Wir glauben, dass nur durch einen vorurteilsfreien Dialog die Menschheit mehr Verständnis, Menschlichkeit und Reife erreichen kann. Wir schlagen vor, das weiße Herz als Symbol zu benutzen, das jeder benutzen kann, der an die Kraft des Dialogs glaubt.
+
+Benutze das weiße Herz als Symbol für Deinen beruflichen oder privaten Kontext. Wir laden die Welt ein, sich zu beteiligen. </p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/61946e2634a71bb2ff92b14e6e9ab3295e702afb.jpg"></article>]]></description>
+            <link>undefinedhome/index.html</link>
+            <guid isPermaLink="false">f4868e5a-4387-4077-a473-07efc2cbea56</guid>
+            <pubDate>Tue, 05 Jan 2016 14:58:41 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
